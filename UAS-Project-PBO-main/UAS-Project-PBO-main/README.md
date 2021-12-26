@@ -1,4 +1,4 @@
-# kelompok13
-1. Adi Wijaya Nusantara - 2017051006
-2. Irfan Saputra - 2017051035
-3. Muhammad Rizky Rifaldi  - 2055061002
+# kelompok3
+1. Apni Andina - 2007051001
+2. Intan Sofiatun Nisya - 2007051015
+3. Hanifa Muslimah  - 2007051046
